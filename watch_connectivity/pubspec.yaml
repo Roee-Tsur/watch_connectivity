@@ -1,7 +1,7 @@
-name: watch_connectivity
+name: yopi_watch_connectivity
 description: Wrapper for WatchConnectivity on iOS and Wearable APIs on Android
 version: 0.1.6
-homepage: https://github.com/Rexios80/watch_connectivity/tree/master/watch_connectivity
+publish_to: none
 
 environment:
   sdk: ">=2.15.1 <4.0.0"
